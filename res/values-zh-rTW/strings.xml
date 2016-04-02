@@ -64,26 +64,26 @@
     <string name="file_copy_failed">無法將 %1$s 複製到 %2$s</string>
     <string name="file_move_failed">無法將 %1$s 移動到 %2$s</string>
     <string name="file_set_perms_failed">無法爲 %s 設定權限</string>
-    <string name="file_set_owner_failed">無法爲 %s 設置所有者</string>
+    <string name="file_set_owner_failed">無法爲 %s 設定所有人</string>
     <string name="file_removing">正在刪除 %s&#8230;</string>
     <string name="file_remove_failed">無法刪除 %s</string>
-    <string name="file_creating_directory">正在創建目錄 %s&#8230;</string>
-    <string name="file_create_directory_failed">無法創建目錄 %s</string>
+    <string name="file_creating_directory">正在建立目錄 %s&#8230;</string>
+    <string name="file_create_directory_failed">無法建立目錄 %s</string>
     <string name="file_writing_recovery_command">正在寫入 Recovery 命令&#8230;</string>
     <string name="file_writing_recovery_command_failed">寫入 Recovery 命令失敗。請換一種安裝方式。</string>
-    <string name="file_done">完成！修改將于重啓之後生效。</string>
+    <string name="file_done">完成！修改將於重啟之後生效。</string>
 
     <!-- Modules tab -->
     <string name="module_is_not_activated_yet">Xposed模組未啟動</string>
-    <string name="module_is_not_activated_yet_detailed">已安裝 %s，但尚未激活。</string>
-    <string name="activate_and_reboot">激活並重啓</string>
-    <string name="module_activated">Xposed 模塊已被激活</string>
+    <string name="module_is_not_activated_yet_detailed">已安裝 %s，但尚未啓動。</string>
+    <string name="activate_and_reboot">啓動並重新啟動</string>
+    <string name="module_activated">Xposed 模組已被啟動</string>
     <string name="module_empty_description">(未提供描述)</string>
     <string name="module_no_ui">該模組未提供使用者介面</string>
     <string name="no_xposed_modules_found">未找到Xposed模組！</string>
-    <string name="xposed_module_list_updated">Xposed模組清單已更新\n重啟後更改將生效</string>
-    <string name="xposed_module_updated_notification_title">Xposed 模塊已更新</string>
-    <string name="xposed_module_updated_notification">重啓以激活更新。</string>
+    <string name="xposed_module_list_updated">Xposed模組清單已更新\n重新啟動後變更將生效</string>
+    <string name="xposed_module_updated_notification_title">Xposed 模組已更新</string>
+    <string name="xposed_module_updated_notification">重新啟動以啟用更新。</string>
     <string name="warning_xposed_min_version">該模組需要較新版本的XposedBridge(%d)，因此無法啟動。</string>
     <string name="no_min_version_specified">該模組未指定需要的Xposed版本。</string>
     <string name="warning_min_version_too_low">該模組在XposedBridge版本%1$d下創建，但因為不相容版本%2$d中的變化內容，它已被禁用。</string>
